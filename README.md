@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm Amit Ashok Swain
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-ashok-s-a510b9b9/)
 ![Years Badge](https://badges.pufler.dev/years/amit-ashok-swain)
 ![Visits Badge](https://badges.pufler.dev/visits/amit-ashok-swain/amit-ashok-swain)
 

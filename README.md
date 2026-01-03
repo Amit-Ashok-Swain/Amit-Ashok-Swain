@@ -1,7 +1,8 @@
 # Hi there! 👋 I'm Amit Ashok Swain
 
-![Years Badge](https://badges.pufler.dev/years/amit-ashok-swain)
-![Visits Badge](https://badges.pufler.dev/visits/amit-ashok-swain/amit-ashok-swain)
+
+![Profile Views](https://komarev.com/ghpvc/?username=amit-ashok-swain&style=flat)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amit-ashok-swain&show_icons=true)
 
 <!--[![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat)](https://yourportfolio.com)-->
 

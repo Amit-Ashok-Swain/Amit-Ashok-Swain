@@ -1,4 +1,4 @@
-name: GitHub Activity
+name: GitHub Metrics
 
 on:
   schedule:
@@ -10,12 +10,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Metrics
+      - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: amit-ashok-swain
+
+          # Base
           template: classic
-          base: activity
+          base: header, activity, community, repositories
+
+          # 🔥 Plugins
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+
           plugin_activity: yes
           plugin_activity_limit: 5
+
+          plugin_achievements: yes
+          plugin_achievements_threshold: B
+
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+
+          plugin_lines: yes

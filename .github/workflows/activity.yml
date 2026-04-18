@@ -2,7 +2,7 @@ name: Update README with activity
 
 on:
   schedule:
-    - cron: "0 * * * *"   # runs every hour
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Update activity
+      - name: Update GitHub Activity
         uses: JamesIves/github-activity-readme@v0.4.1
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,241 +1,288 @@
 <div align="center">
 
-<!-- 🔥 ADVANCED ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=300&section=header&text=Amit%20Ashok%20Swain&fontSize=50&fontAlignY=40&animation=fadeIn&desc=AI%20Engineer%20|%20FDE%20|%20Product%20Manager&descAlignY=65" />
+<!-- 🔶 LAYER 1: ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6A00&height=320&section=header&text=Amit%20Ashok%20Swain&fontSize=52&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20|%20Forward%20Deployed%20Engineer%20|%20Product%20Manager&descAlignY=65" />
 
-# 👋 Hey, I'm **Amit Ashok Swain**
-
-### 🤖 AI Engineer • 🚀 Forward Deployed Engineer • 📦 Product Manager • ☁️ Backend Architect
-
-<!-- 🔥 MULTI-LINE TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2200&pause=700&color=0E75B6&center=true&vCenter=true&width=1000&lines=Building+AI+Products+End-to-End;Managing+40%2B+Projects;From+0→1+to+Scale;Engineering+%2B+Product+%2B+AI;Solving+Ambiguous+Real-World+Problems;System+Design+%7C+Cloud+%7C+AI+Execution" />
+<!-- 🔥 LAYER 2: TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2200&pause=700&color=FF6A00&center=true&vCenter=true&width=1000&lines=Jai+Shree+Ram+🔶;Building+AI+Products+End-to-End;Shipping+40%2B+Real-World+Projects;From+0→1+to+Scale;System+Design+%7C+Cloud+%7C+AI;Execution+%2B+Strategy+%2B+Impact" />
 
 <br/>
 
-<!-- 🔥 BADGES -->
-<img src="https://img.shields.io/badge/AI-Engineer-blue?style=for-the-badge" />
+<!-- 🔥 LAYER 3: BADGES -->
+<img src="https://img.shields.io/badge/AI-Engineer-FF6A00?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Forward%20Deployed-Engineer-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Product-Manager-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/System-Builder-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Product-Manager-FF6A00?style=for-the-badge" />
 
 <br/>
 
-<!-- 🔥 PROFILE STATS -->
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=amit-ashok-swain&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/amit-ashok-swain?label=Followers&style=for-the-badge&color=blue" />
-<img src="https://img.shields.io/github/stars/amit-ashok-swain?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow&label=Total%20Stars" />
-
-</p>
+<!-- 🔥 LAYER 4: STATS -->
+<img src="https://komarev.com/ghpvc/?username=amit-ashok-swain&style=for-the-badge&color=orange" />
+<img src="https://img.shields.io/github/followers/amit-ashok-swain?style=for-the-badge&color=orange" />
+<img src="https://img.shields.io/github/stars/amit-ashok-swain?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=orange" />
 
 </div>
 
 ---
 
-# 🧠 About Me
-
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+# 🔶 Who Am I
 
 I operate at the intersection of:
 
-> **🤖 AI Engineering × 📦 Product Management × 🏗 System Design**
+> **🤖 AI Engineering × 🚀 Forward Deployed Execution × 📦 Product Strategy**
 
-- 🚀 Leading **40+ AI, SaaS, Web3 products**
-- 🤖 Built AI systems like **DeepVid.ai, SongGPT**
-- ⚙️ Backend Engineer → Spring Boot, APIs, AWS
-- 📊 Product Thinker → Metrics, UX, experimentation
-- 🧠 Execution-driven → Idea → Build → Scale
+I don’t just build features —  
+I build **systems, products, and outcomes**.
 
 ---
 
-# ⚡ What Makes Me Different
+# ⚡ Core Identity
+
+- 🚀 Led execution of **40+ real-world AI & SaaS products**
+- 🤖 Built AI products like **DeepVid.ai, SongGPT**
+- ⚙️ Backend-focused (**Spring Boot, APIs, AWS**)
+- 📊 Product thinker (**metrics, UX, growth loops**)
+- 🧠 Strong in **0 → 1 building + scaling systems**
+
+---
+
+# 🔥 What Makes Me Different
 
 <div align="center">
 
-| Traditional Engineer | Me |
-|--------------------|----|
+| Typical Engineer | Me |
+|----------------|----|
 | Writes code | Ships products |
 | Follows specs | Defines strategy |
-| Works in silos | Cross-functional leader |
+| Works in modules | Owns end-to-end |
 | Feature-focused | Impact-focused |
 
 </div>
 
 ---
 
-# 🚀 Forward Deployed Engineering
+# 🚀 Forward Deployed Engineer Mindset
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
 
-- Solve ambiguous real-world problems  
-- Rapid prototyping → deploy → iterate  
-- Direct stakeholder collaboration  
-- Deliver under constraints  
+- Solve **ambiguous real-world problems**
+- Work directly with users & stakeholders
+- Rapid build → deploy → iterate cycle
+- Deliver impact under constraints
 
 ---
 
-# 🤖 AI Engineering
+# 🤖 AI Engineering Layer
 
 <img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-- Machine Learning pipelines  
-- LLM + automation integrations  
-- Data-driven optimization  
-- AI-first product design  
+- LLM integrations & automation  
+- AI-powered workflows  
+- ML pipelines in production  
+- Data-driven decision systems  
 
 ---
 
-# 🛠 Tech Stack
+# 🧠 Philosophy
 
-## 💻 Languages  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp" />
-</p>
+> 🔶 Build fast. Learn faster. Scale what works.
 
-## ⚙️ Backend & Systems  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=spring,nodejs,mysql" />
-</p>
+---
 
-## 📱 Mobile  
+<!-- 🔶 DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6A00&height=2" />
+
+# 📊 Engineering Impact & Case Studies
+
+---
+
+# 🏆 High-Impact Case Studies
+
+## 🤖 DeepVid.ai — AI Video Automation Platform
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
+
+### 🧩 Problem
+Creating high-quality video content required:
+- Manual editing effort  
+- High time investment  
+- Lack of automation tools  
+
+---
+
+### ⚙️ Solution
+- Built **AI-powered video generation pipeline**
+- Designed backend workflows for processing
+- Automated content creation using AI models
+- Integrated scalable architecture
+
+---
+
+### 🧠 System Design Thinking
+- Microservice-based architecture  
+- Async processing for heavy tasks  
+- API-driven modular backend  
+
+---
+
+### 📈 Impact
+- 🚀 Reduced manual effort significantly  
+- ⚡ Faster content generation pipeline  
+- 📊 Improved engagement potential  
+
+---
+
+## 📸 Instagram Backend System
+
+### 🧩 Problem
+Scalable backend required for:
+- High user interactions  
+- Real-time operations  
+- Efficient data handling  
+
+---
+
+### ⚙️ Solution
+- Built REST APIs using **Spring Boot**
+- Designed optimized relational database
+- Deployed scalable backend on AWS  
+
+---
+
+### 🧠 System Design
+- Layered architecture (Controller → Service → DAO)
+- Database indexing optimization  
+- API-first architecture  
+
+---
+
+### 📈 Impact
+- ⚡ Efficient user interaction handling  
+- 🚀 Scalable backend foundation  
+- 🔄 Modular & maintainable system  
+
+---
+
+## 💰 Expense Manager (Cloud-Based)
+
+### 🧩 Problem
+Users lacked:
+- Centralized expense tracking  
+- Real-time synchronization  
+- Cross-device accessibility  
+
+---
+
+### ⚙️ Solution
+- Built secure cloud backend  
+- Implemented API-based system  
+- Integrated AWS infrastructure  
+
+---
+
+### 🧠 System Thinking
+- Stateless APIs  
+- Secure authentication  
+- Cloud-first design  
+
+---
+
+### 📈 Impact
+- 📊 Real-time expense tracking  
+- 🔒 Secure data handling  
+- 📈 Better financial visibility  
+
+---
+
+# 🧠 System Design Philosophy
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=android,kotlin,java&theme=light" height="50" />
+
+| Principle | Focus |
+|----------|------|
+| Scalability | Horizontal scaling |
+| Reliability | Fault tolerance |
+| Performance | Low latency |
+| Maintainability | Clean architecture |
+
 </div>
 
-## ☁️ Cloud & DevOps  
+---
+
+# 📊 GitHub Metrics Dashboard
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,github,linux" />
+<img src="/github-metrics.svg" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 Contribution Activity
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=amit-ashok-swain&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-ashok-swain&theme=radical&hide_border=true" />
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-ashok-swain&layout=compact&theme=radical&hide_border=true" />
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-ashok-swain&theme=react-dark&color=FF6A00" />
 
 ---
 
-# 📈 Advanced Contribution Insights
+# 🐍 Contribution Snake
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-ashok-swain&theme=react-dark" />
-
----
-
-# 🐍 Animated Contribution Snake
-
-<div align="center">
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-# 🧬 Developer Summary Dashboard
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amit-ashok-swain&theme=radical" />
+</p>
 
 ---
 
-# 🏆 GitHub Achievements  
+<!-- 🔶 DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6A00&height=2" />
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amit-ashok-swain&show_icons=true&theme=radical&hide_border=true" />
-
-<br/>
-
-<img src="https://img.shields.io/github/followers/amit-ashok-swain?style=for-the-badge&label=Followers" />
-<img src="https://img.shields.io/github/stars/amit-ashok-swain?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Total%20Stars" />
-
-</div>
+# 📊 Productivity & Activity Insights
 
 ---
 
-# 📂 Portfolio Deep Dive
+# ⏱️ WakaTime Coding Stats
 
-## 🤖 AI Products
-- DeepVid.ai → AI video automation  
-- SongGPT → AI music/content generation  
-- AI Gym Tool → AI fitness intelligence  
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=amitashokswain&theme=radical" />
 
 ---
 
-## 📸 Instagram Backend
-- REST APIs  
-- AWS deployment  
-- Scalable architecture  
-
----
-
-## 💰 Expense Manager
-- Cloud-based backend  
-- Secure storage  
-
----
-
-## 📦 Stock Management
-- Optimized DB  
-- Efficient operations  
-
----
-
-# 🧠 Product Thinking
-
-- 📊 Metrics-driven decisions  
-- 🧪 Experimentation mindset  
-- 🎯 User-centric design  
-- 🚀 Growth & iteration  
-
----
-
-# 🏗 System Design Mindset
-
-- Scalability  
-- Reliability  
-- Performance  
-- Clean architecture  
-
----
-
-# 📡 Live Activity Feed
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-# 🎯 Current Focus
-
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
+# 📊 What I Focus On
 
 - 🤖 AI Product Engineering  
-- 🚀 Forward Deployed Roles  
-- ☁️ Cloud Architecture  
-- 📊 Product Strategy  
+- 🚀 Forward Deployed Execution  
+- ☁️ Cloud & Backend Systems  
+- 📦 Product Strategy  
+
+---
+
+# 🌐 Portfolio
+
+<div align="center">
+
+<a href="https://fueler.io/amitashokswain">
+<img src="https://img.shields.io/badge/🚀%20View%20Full%20Portfolio-FF6A00?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+# 🎯 Current Mission
+
+> Building scalable AI products that solve real-world problems.
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/amit-ashok-swain">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://linkedin.com/in/amit-ashok-swain">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/amit-ashok-swain">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/amit-ashok-swain">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
 
 ---
 
@@ -245,11 +292,12 @@ I operate at the intersection of:
 
 ---
 
-# 🧾 Philosophy
+# 🧾 Final Philosophy
 
-> Build fast. Learn faster. Scale what works.
+> 🔶 Build fast. Learn faster. Scale what works.
 
 ---
 
-<!-- 🔥 ANIMATED FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=120&section=footer"/>
+<!-- 🔶 FINAL FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6A00&height=120&section=footer"/>
+

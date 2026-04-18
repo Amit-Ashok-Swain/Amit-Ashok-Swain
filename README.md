@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- 🔥 ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=260&section=header&text=Amit%20Ashok%20Swain&fontSize=45&fontAlignY=40&animation=fadeIn" />
+<!-- 🔥 ADVANCED ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=300&section=header&text=Amit%20Ashok%20Swain&fontSize=50&fontAlignY=40&animation=fadeIn&desc=AI%20Engineer%20|%20FDE%20|%20Product%20Manager&descAlignY=65" />
 
 # 👋 Hey, I'm **Amit Ashok Swain**
 
 ### 🤖 AI Engineer • 🚀 Forward Deployed Engineer • 📦 Product Manager • ☁️ Backend Architect
 
-<!-- 🔥 TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=0E75B6&center=true&vCenter=true&width=1000&lines=Building+AI+Products+End-to-End;Managing+40%2B+Projects;From+0→1+to+Scale;Engineering+%2B+Product+%2B+AI;Solving+Ambiguous+Real-World+Problems" />
+<!-- 🔥 MULTI-LINE TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2200&pause=700&color=0E75B6&center=true&vCenter=true&width=1000&lines=Building+AI+Products+End-to-End;Managing+40%2B+Projects;From+0→1+to+Scale;Engineering+%2B+Product+%2B+AI;Solving+Ambiguous+Real-World+Problems;System+Design+%7C+Cloud+%7C+AI+Execution" />
 
 <br/>
 
@@ -20,11 +20,14 @@
 
 <br/>
 
-<!-- 🔥 PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=amit-ashok-swain&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<!-- 🔥 PROFILE STATS -->
+<p align="center">
 
-<!-- 🔥 PROFILE HITS -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/amit-ashok-swain&count_bg=%230E75B6&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile%20Hits&edge_flat=false" />
+<img src="https://komarev.com/ghpvc/?username=amit-ashok-swain&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/amit-ashok-swain?label=Followers&style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/stars/amit-ashok-swain?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow&label=Total%20Stars" />
+
+</p>
 
 </div>
 
@@ -38,15 +41,17 @@ I operate at the intersection of:
 
 > **🤖 AI Engineering × 📦 Product Management × 🏗 System Design**
 
-- 🚀 Senior Engineering Project Manager (40+ projects shipped)
-- 🤖 Built AI products like DeepVid.ai, SongGPT, AI Gym Tool  
-- ⚙️ Backend Engineer (Spring Boot, APIs, AWS)  
-- 📊 Product thinker (metrics, UX, experimentation)  
-- 🧠 Strong execution → idea → build → scale  
+- 🚀 Leading **40+ AI, SaaS, Web3 products**
+- 🤖 Built AI systems like **DeepVid.ai, SongGPT**
+- ⚙️ Backend Engineer → Spring Boot, APIs, AWS
+- 📊 Product Thinker → Metrics, UX, experimentation
+- 🧠 Execution-driven → Idea → Build → Scale
 
 ---
 
 # ⚡ What Makes Me Different
+
+<div align="center">
 
 | Traditional Engineer | Me |
 |--------------------|----|
@@ -54,6 +59,8 @@ I operate at the intersection of:
 | Follows specs | Defines strategy |
 | Works in silos | Cross-functional leader |
 | Feature-focused | Impact-focused |
+
+</div>
 
 ---
 
@@ -63,7 +70,7 @@ I operate at the intersection of:
 
 - Solve ambiguous real-world problems  
 - Rapid prototyping → deploy → iterate  
-- Work directly with stakeholders  
+- Direct stakeholder collaboration  
 - Deliver under constraints  
 
 ---
@@ -72,33 +79,33 @@ I operate at the intersection of:
 
 <img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-- ML pipelines & model integration  
-- AI product workflows (LLMs, automation)  
+- Machine Learning pipelines  
+- LLM + automation integrations  
 - Data-driven optimization  
-- Real-world deployment  
+- AI-first product design  
 
 ---
 
 # 🛠 Tech Stack
 
 ## 💻 Languages  
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp" />
 </p>
 
-## ⚙️ Backend & System Design  
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+## ⚙️ Backend & Systems  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,nodejs,mysql" />
 </p>
 
 ## 📱 Mobile  
-<p>
-<img src="https://skillicons.dev/icons?i=android" />
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=android,kotlin,java&theme=light" height="50" />
+</div>
 
 ## ☁️ Cloud & DevOps  
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,github" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,github,linux" />
 </p>
 
 ---
@@ -107,78 +114,92 @@ I operate at the intersection of:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amit-ashok-swain&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=amit-ashok-swain&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-ashok-swain&theme=radical&hide_border=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-ashok-swain&theme=radical&hide_border=true" />
+<br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-ashok-swain&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-ashok-swain&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Advanced Contribution Insights
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-ashok-swain&theme=react-dark" />
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🐍 Animated Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
 
-# 🧬 Profile Summary
+# 🧬 Developer Summary Dashboard
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amit-ashok-swain&theme=radical" />
 
 ---
 
-# 🏆 GitHub Achievements & Trophies
+# 🏆 GitHub Achievements  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amit-ashok-swain&theme=radical&no-frame=true&margin-w=10" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amit-ashok-swain&show_icons=true&theme=radical&hide_border=true" />
+
+<br/>
+
+<img src="https://img.shields.io/github/followers/amit-ashok-swain?style=for-the-badge&label=Followers" />
+<img src="https://img.shields.io/github/stars/amit-ashok-swain?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Total%20Stars" />
+
+</div>
 
 ---
 
-# 📂 Portfolio (Deep Dive)
+# 📂 Portfolio Deep Dive
 
 ## 🤖 AI Products
-- DeepVid.ai  
-- SongGPT  
-- AI Gym Tool  
+- DeepVid.ai → AI video automation  
+- SongGPT → AI music/content generation  
+- AI Gym Tool → AI fitness intelligence  
+
+---
 
 ## 📸 Instagram Backend
-- Scalable REST APIs  
+- REST APIs  
 - AWS deployment  
-- Modular architecture  
+- Scalable architecture  
+
+---
 
 ## 💰 Expense Manager
-- Cloud-based system  
+- Cloud-based backend  
 - Secure storage  
 
+---
+
 ## 📦 Stock Management
-- Optimized queries  
-- Efficient CRUD  
+- Optimized DB  
+- Efficient operations  
 
 ---
 
 # 🧠 Product Thinking
 
-- 📊 North Star Metrics  
-- 🧪 Experimentation  
-- 🎯 User-first approach  
-- 🚀 Growth mindset  
+- 📊 Metrics-driven decisions  
+- 🧪 Experimentation mindset  
+- 🎯 User-centric design  
+- 🚀 Growth & iteration  
 
 ---
 
-# 🏗 System Design
+# 🏗 System Design Mindset
 
 - Scalability  
 - Reliability  
@@ -187,7 +208,7 @@ I operate at the intersection of:
 
 ---
 
-# 📡 Live Activity
+# 📡 Live Activity Feed
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -199,7 +220,7 @@ I operate at the intersection of:
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
 
 - 🤖 AI Product Engineering  
-- 🚀 Forward Deployed Engineering  
+- 🚀 Forward Deployed Roles  
 - ☁️ Cloud Architecture  
 - 📊 Product Strategy  
 
@@ -230,5 +251,5 @@ I operate at the intersection of:
 
 ---
 
-<!-- 🔥 FOOTER -->
+<!-- 🔥 ANIMATED FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=120&section=footer"/>

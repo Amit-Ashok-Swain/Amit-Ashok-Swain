@@ -1,4 +1,4 @@
-name: Update README with activity
+name: GitHub Activity
 
 on:
   schedule:
@@ -6,14 +6,16 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Update README Activity
-        uses: Readme-Workflows/recent-activity@v2
+      - name: Metrics
+        uses: lowlighter/metrics@latest
         with:
-          GH_USERNAME: amit-ashok-swain
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: amit-ashok-swain
+          template: classic
+          base: activity
+          plugin_activity: yes
+          plugin_activity_limit: 5

@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlsaGZwdDY0MDEzbTFzOGg5Zmt2NzVybXp5enh3dmtuaG9xNDNpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sUmAOizZfDwp5RRbJy/giphy.gif" width="860" height="180"/>
+
 <!-- 🔶 LAYER 1: ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6A00&height=320&section=header&text=Amit%20Ashok%20Swain&fontSize=52&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20|%20Forward%20Deployed%20Engineer%20|%20Product%20Manager&descAlignY=65" />
 
@@ -79,12 +81,6 @@ I build **systems, products, and outcomes**.
 - AI-powered workflows  
 - ML pipelines in production  
 - Data-driven decision systems  
-
----
-
-# 🧠 Philosophy
-
-> 🔶 Build fast. Learn faster. Scale what works.
 
 ---
 

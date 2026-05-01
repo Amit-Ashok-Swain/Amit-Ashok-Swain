@@ -274,7 +274,7 @@ Users lacked:
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/amit-ashok-swain">
+<a href="https://www.linkedin.com/in/amit-ashok-s-a510b9b9">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 

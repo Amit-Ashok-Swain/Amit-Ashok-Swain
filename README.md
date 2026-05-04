@@ -18,11 +18,12 @@
 <br/>
 
 <!-- 🔥 LAYER 4: STATS -->
-<img src="https://komarev.com/ghpvc/?username=amit-ashok-swain&style=for-the-badge&color=orange" />
-<img src="https://img.shields.io/github/followers/amit-ashok-swain?style=for-the-badge&color=orange" />
-<img src="https://img.shields.io/github/stars/amit-ashok-swain?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=orange" />
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amit-ashok-swain&style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/github/followers/amit-ashok-swain?style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/github/stars/amit-ashok-swain?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=orange" />
+</p>
 
 ---
 
@@ -231,14 +232,13 @@ Users lacked:
 
 # 📊 Productivity & Activity Insights
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-ashok-swain&theme=radical&hide_border=true" height="170"/>
+</p>
 
 # ⏱️ WakaTime Coding Stats
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=amitashokswain&theme=radical" />
-
----
-
+[![wakatime](https://wakatime.com/badge/user/f174f1bb-78a2-4b69-a4c3-4fb170ba74b3.svg?style=for-the-badge)](https://wakatime.com/@f174f1bb-78a2-4b69-a4c3-4fb170ba74b3)
 # 📊 What I Focus On
 
 - 🤖 AI Product Engineering  
